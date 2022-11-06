@@ -1,0 +1,23 @@
+html,
+body,
+#app {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+.seller-page {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.seller {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.echart {
+  width: 100%;
+  height: 100%;
+}
